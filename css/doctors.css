@@ -1,0 +1,68 @@
+#doc11a
+{
+	border-style:solid;
+	border-color:white;
+	height:450px;
+	width:1350px;
+	background-image:url("../image/doc11a.png");
+	background-position:left;
+	background-repeat:no-repeat;
+}
+#h1
+{
+	text-transform:uppercase;
+	font-style:normal;
+	text-align:center;
+	padding-top:40px;
+	font-family:tahoma;
+}
+#h2a
+{
+	text-align:center;
+	font-family:arial;
+	color:red;
+	text-indent:100px;
+}
+#p1
+{
+	text-align:center;
+	font-family:"times new roman",times,serif;
+	font-size:25px;
+	text-indent:300px;
+	text-transform:capitalize;
+	
+	
+}
+#h2b
+{
+	text-align:left;
+	font-family:arial;
+	color:red;
+	text-indent:470px;
+}
+#p2
+{
+	padding-right:20px;
+	text-align:right;
+	font-family:"times new roman",times,serif;
+	font-size:23px;
+	text-transform:capitalize;
+	text-indent:255px;
+}
+#h3
+{
+	font-size:25px;
+	text-align:left;
+	font-family:arial;
+	color:red;
+	text-indent:470px;
+}
+#doc11b
+{
+	border-color:white;
+	height:450px;
+	width:1350px;
+	background-image:url("../image/doc11b1.jpg");
+	background-position:left;
+	background-repeat:no-repeat;
+}
